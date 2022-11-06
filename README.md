@@ -1,7 +1,8 @@
-<h1 align="left">
-<span> &nbsp;&nbsp;&nbsp; </span>
-<!-- <img height="100" src="https://user-images.githubusercontent.com/20145075/127218526-44b107db-92b9-4a47-86a3-132b4c1e45d1.png" alt="fruitypebbles.nvim"> -->
-</h1>
+# fruitypebbles
+![image](https://user-images.githubusercontent.com/84747244/200152262-55e1f7e4-1ddf-4fbb-9934-45fe49a64142.png)
+
+![image](https://user-images.githubusercontent.com/84747244/200151835-64c859de-315f-4418-8310-6d7042d6b987.png)
+
 
 <h4><div align="right">
     <a href="#installation">Installation</a>
