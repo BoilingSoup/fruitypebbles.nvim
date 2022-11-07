@@ -70,8 +70,8 @@ local default_config = {
 	},
 
 	-- Custom Highlights --
-	colors = {}, -- Override default colors
-	highlights = {}, -- Override highlight groups
+	-- colors = {}, -- Override default colors
+	-- highlights = {}, -- Override highlight groups
 
 	-- Plugins Related --
 	diagnostics = {
