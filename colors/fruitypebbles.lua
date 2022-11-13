@@ -47,6 +47,7 @@ require("fruitypebbles").setup({
 		["@punctuation.delimiter"] = { fg = "$faint_orange" },
 		["@punctuation.bracket"] = { fg = "$faint_orange" },
 		["@punctuation.special"] = { fg = "$faint_orange" },
+		["@repeat"] = { fg = "$red" },
 		["@string"] = { fg = "$faint_green" },
 		["@tag"] = { fg = "$orange" },
 		["@tag.delimiter"] = { fg = "$red" },
