@@ -115,7 +115,7 @@ hl.syntax = {
 	Include = colors.Purple,
 	Keyword = { fg = c.purple, fmt = cfg.code_style.keywords },
 	Define = colors.Purple,
-	Typedef = colors.Purple,
+	Typedef = "#07CDDF",
 	Exception = colors.Purple,
 	Conditional = { fg = c.purple, fmt = cfg.code_style.keywords },
 	Repeat = { fg = c.purple, fmt = cfg.code_style.keywords },
