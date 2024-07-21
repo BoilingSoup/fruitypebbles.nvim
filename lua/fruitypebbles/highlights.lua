@@ -108,7 +108,7 @@ hl.syntax = {
 	Type = colors.Yellow,
 	Structure = colors.Yellow,
 	StorageClass = colors.Yellow,
-	Identifier = { fg = colors.Orange, fmt = cfg.code_style.variables },
+	Identifier = colors.Orange,
 	Constant = colors.Cyan,
 	PreProc = colors.Purple,
 	PreCondit = colors.Purple,
